@@ -9,4 +9,5 @@ interesting findings were:
 
  Big metro areas are generally high in opportunities, fun and vibrant, and surprisingly low
 in crime, but costs are high.
+
  There are trade-offs between OPPORTUNITY & LIFESTYLE. But there are hidden gems.
