@@ -11,3 +11,5 @@ interesting findings were:
 in crime, but costs are high.
 
  There are trade-offs between OPPORTUNITY & LIFESTYLE. But there are hidden gems.
+
+You can find the analysis in the ipynb file.
