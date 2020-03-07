@@ -1,4 +1,4 @@
-#Lifejack Exploratory Data Analysis
+LifeHack Exploratory Data Analysis
 
 We surveyed students to define the problem statement and find the specific factors that were
 most important to them in finding a city to relocate to upon graduation. The students wanted
