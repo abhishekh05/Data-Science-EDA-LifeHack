@@ -12,4 +12,4 @@ in crime, but costs are high.
 
  There are trade-offs between OPPORTUNITY & LIFESTYLE. But there are hidden gems.
 
-You can find the analysis in the ipynb file.
+You can find the analysis in the python_final_project.ipynb file.
